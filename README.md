@@ -7,19 +7,17 @@
 
 
 <p align="center">
-<a href="https://github.com/MANNO-GDS/MANNO-MD-V2"><img title="Author" src="https://img.shields.io/badge/THE MANNO BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Itxmanno05/THE-MANNO-BOT"><img title="Author" src="https://img.shields.io/badge/THE MANNO BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/MANNO-GDS/MANNO-MD-V2?tab=followers"><img title="Followers" src="https://img.shields.io/https://github.com/MANNO-GDS/MANNO-MD-V2?label=Followers&style=social"></a>
-<a href="https://github.com/MANNO-GDS/MANNO-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/githubhttps://github.com/MANNO-GDS/MANNO-MD-V2?&style=social"></a>
-<a href="https://github.com/MANNO-GDS/MANNO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/https://github.com/MANNO-GDS/MANNO-MD-V2?style=social"></a>
-<a href="https://github.com/MANNO-GDS/MANNO-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MANNO-GDS/MANNO-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/MANNO-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MANNO-GDS?label=Followers&style=social"></a>
+<a href="https://github.com/Ethix-Xsid/Ethix-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MANNO-GDS/MANNO-MD-V2?&style=social"></a>
+<a href="https://github.com/Ethix-Xsid/Ethix-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MANNO-GDS/MANNO-MD-V2?style=social"></a>
+<a href="https://github.com/Ethix-Xsid/Ethix-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MANNO-GDS/MANNO-MD-V2?label=Watching&style=social"></a>
 </p>
  
 <h1 align="center">🛡️MANNO-BOT-MÐ🛡️</h1>
-
-
 
 
 ### 1. Fork This Repository
@@ -47,6 +45,11 @@ FOLLOW SAMII BLOUCH WHAtSAPP GROUP FOR MORE UPDATES
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM))
 
 
+## ENJOY!!!;
+
+### DEVOLPER
+[<a href="https://github.com/MANNO-GDS/Queen_Nikka"><img src="https://i.imgur.com/pcv6wTh.jpeg" width="200" height="200" alt="Ash"/></a>] 
+
 
 ## ⚠️ Reminder
 
@@ -56,8 +59,5 @@ FOLLOW SAMII BLOUCH WHAtSAPP GROUP FOR MORE UPDATES
 
 ---
 
-  ## ENJOY!!!;
 
-### DEVOLPER
-[<a href="https://github.com/MANNO-GDS/Queen_Nikka"><img src="https://i.imgur.com/pcv6wTh.jpeg" width="200" height="200" alt="Ash"/></a>] 
 
