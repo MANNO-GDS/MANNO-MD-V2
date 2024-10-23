@@ -7,14 +7,14 @@
 
 
 <p align="center">
-<a href="https://github.com/Ethix-Xsid/Ethix-MD-V2"><img title="Author" src="https://img.shields.io/badge/THE MANNO BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MANNO-GDS/MANNO-MD-V2"><img title="Author" src="https://img.shields.io/badge/THE MANNO BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
 <a href="https://github.com/MANNO-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MANNO-GDS?label=Followers&style=social"></a>
 <a href="https://github.com/MANNO-GDS/MANNO-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MANNO-GDS/MANNO-MD-V2?&style=social"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks//MANNO-GDS/MANNO-MD-V2?style=social"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers//MANNO-GDS/MANNO-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/MANNO-GDS/MANNO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxmanno05/THE-MANNO-BOT?style=social"></a>
+<a href="https://github.com/MANNO-GDS/MANNO-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MANNO-GDS/MANNO-MD-V2?label=Watching&style=social"></a>
 </p>
  
 <h1 align="center">🛡️MANNO-BOT-MÐ🛡️</h1>
@@ -37,13 +37,19 @@
 
   ## ENJOY!!!;
 
-Community and Support
 
-FOLLOW SAMII BLOUCH WHAtSAPP GROUP FOR MORE UPDATES
+𝙅𝙊𝙄𝙉 𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 𝙑2 𝙂𝙍𝙊𝙐𝙋 𝘾𝙊𝙈𝙊𝙐𝙉𝙄𝙏𝙔 
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM))
 
 
-### DEVOLPER
+### 𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍
 [<a href="https://github.com/MANNO-GDS/Queen_Nikka"><img src="https://i.imgur.com/pcv6wTh.jpeg" width="200" height="200" alt="Ash"/></a>] 
 
 
+## ⚠️ 𝙍𝙀𝙈𝙄𝙉𝘿𝙀𝙍
+
+- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
+- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
+- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
+
+---
