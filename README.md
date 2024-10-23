@@ -28,7 +28,7 @@
 ### 2. 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝘿 𝙑𝙄𝘼 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀
 
 
-<a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 
 ### 𝘿𝙀𝙋𝙇𝙊𝙔 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐
