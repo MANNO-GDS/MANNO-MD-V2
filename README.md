@@ -13,11 +13,11 @@
 <p align="center">
 <a href="https://github.com/MANNO-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MANNO-GDS?label=Followers&style=social"></a>
 <a href="https://github.com/MANNO-GDS/MANNO-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MANNO-GDS/MANNO-MD-V2?&style=social"></a>
-<a href="https://github.com/MANNO-GDS/MANNO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxmanno05/THE-MANNO-BOT?style=social"></a>
+<a href="https://github.com/MANNO-GDS/MANNO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MANNO-GDS/MANNO-MD-V2?style=social"></a>
 <a href="https://github.com/MANNO-GDS/MANNO-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MANNO-GDS/MANNO-MD-V2?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">🛡️MANNO-BOT-MÐ🛡️</h1>
+<h1 align="center">💌𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿💌</h1>
 
 
 
@@ -35,11 +35,12 @@
 
 <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
 
-  ## ENJOY!!!;
+  ## ENJOY!!! 
 
 
 𝙅𝙊𝙄𝙉 𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 𝙑2 𝙂𝙍𝙊𝙐𝙋 𝘾𝙊𝙈𝙊𝙐𝙉𝙄𝙏𝙔 
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM))
+
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM)
 
 
 ### 𝘿𝙀𝙑𝙊𝙇𝙋𝙀𝙍
