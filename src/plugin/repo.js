@@ -3,14 +3,14 @@ const { generateWAMessageFromContent, proto } = pkg;
 import axios from 'axios'; // Import axios for HTTP requests
 
 const handleRepoCommand = async (m, Matrix) => {
-  const repoUrl = 'https://api.github.com/repos/Ethix-Xsid/Ethix-MD-V2';
+  const repoUrl = 'https://api.https://github.com/MANNO-GDS/MANNO-MD-V2';
   try {
     const response = await axios.get(repoUrl);
     const repoData = response.data;
 
     const { full_name, name, forks_count, stargazers_count, created_at, updated_at, owner } = repoData;
 
-    const messageText = `Hello *_${m.pushName}_,*\nThis is *Ethix-Md,* A Whatsapp Bot Built by *Ethix-Xsid,* Enhanced with Amazing Features to Make Your Whatsapp Communication and Interaction Experience Amazing\n\n*❲❒❳ ɴᴀᴍᴇ:* ${name}\n*❲❒❳ sᴛᴀʀs:* ${stargazers_count}\n*❲❒❳ ғᴏʀᴋs:* ${forks_count}\n*❲❒❳ ᴄʀᴇᴀᴛᴇᴅ ᴏɴ:* ${new Date(created_at).toLocaleDateString()}\n*❲❒❳ ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇᴅ:* ${new Date(updated_at).toLocaleDateString()}`;
+    const messageText = `Hello *_${m.pushName}_,*\nThis is *Manno-Md,* A Whatsapp Bot Built by *Manno-Xsid,* Enhanced with Amazing Features to Make Your Whatsapp Communication and Interaction Experience Amazing\n\n*❲❒❳ ɴᴀᴍᴇ:* ${name}\n*❲❒❳ sᴛᴀʀs:* ${stargazers_count}\n*❲❒❳ ғᴏʀᴋs:* ${forks_count}\n*❲❒❳ ᴄʀᴇᴀᴛᴇᴅ ᴏɴ:* ${new Date(created_at).toLocaleDateString()}\n*❲❒❳ ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇᴅ:* ${new Date(updated_at).toLocaleDateString()}`;
 
     const repoMessage = generateWAMessageFromContent(m.from, {
       viewOnceMessage: {
@@ -24,10 +24,10 @@ const handleRepoCommand = async (m, Matrix) => {
               text: messageText
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴛʜɪx-ᴍᴅ*"
+              text: "*🄼 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀɴɴᴏ-ᴍᴅ*"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
-             ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/fbbe1744668b44637c21a.jpg` } }, { upload: Matrix.waUploadToServer })),
+             ...(await prepareWAMessageMedia({ image: { url: `https://i.imgur.com/pcv6wTh.jpeg` } }, { upload: Matrix.waUploadToServer })),
               title: "",
               gifPlayback: true,
               subtitle: "",
@@ -45,15 +45,15 @@ const handleRepoCommand = async (m, Matrix) => {
                 {
                   name: "cta_url",
                   buttonParamsJson: JSON.stringify({
-                    display_text: "FOLLOW WACHANNEL",
-                    url: `https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S`
+                    display_text: "JOIN GROUP",
+                    url: `https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM`
                   })
                 },
                 {
                   name: "cta_url",
                   buttonParamsJson: JSON.stringify({
                     display_text: "CLOCK HERE TO FORK",
-                    url: `https://github.com/Ethix-Xsid/Ethix-MD-V2/fork`
+                    url: `https://github.com/MANNO-GDS/MANNO-MD-V2`
                   })
                 }
               ],
